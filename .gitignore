@@ -1,0 +1,4 @@
+venv
+offers.db
+.idea
+__pycache__
